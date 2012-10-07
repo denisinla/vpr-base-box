@@ -1,4 +1,4 @@
-Vagrant/Puppet
+### Vagrant/Puppet
 
 Debian based box (Ubuntu 12.04 LTS Precise Pandoling for 64bit architectures)
 
@@ -11,4 +11,4 @@ Debian based box (Ubuntu 12.04 LTS Precise Pandoling for 64bit architectures)
 - Bundler
 - MySQL 5.5
 
-_For any further package customizations please modify puppet's manifest file accordingly. If unfamiliar with Puppet for provisioning please consult ![http://docs.puppetlabs.com/]_
+_For any further package customizations please modify puppet's manifest file accordingly. If unfamiliar with Puppet for provisioning please consult [Puppet Documentation](http://docs.puppetlabs.com/)_
